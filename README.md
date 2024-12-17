@@ -1,8 +1,3 @@
-### Public 레포지토리 주소
-https://github.com/YooSeungA52/camp-week-10-Public
-<br><br>
-Build 파일은 Public 레포지토리에서 다운로드 가능합니다
-
 #
 
 ### 사용버전
